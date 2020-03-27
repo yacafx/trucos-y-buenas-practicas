@@ -1,3 +1,5 @@
-# typescript-buvfti
+# Typescript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-buvfti)
+## Trucos y buenas practicas
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/trucos-y-buenas-practicas)
