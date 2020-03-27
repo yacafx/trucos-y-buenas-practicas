@@ -2,4 +2,4 @@
 
 ## Trucos y buenas practicas
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/trucos-y-buenas-practicas)
+Despues de instalar Typescript, ejecuta el comando `tsc --p tsconfig.json -w`
