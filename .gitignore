@@ -2,6 +2,17 @@
 # Created by https://www.gitignore.io/api/osx,node,macos,angular,windows
 # Edit at https://www.gitignore.io/?templates=osx,node,macos,angular,windows
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
 ### Angular ###
 ## Angular ##
 # compiled output
